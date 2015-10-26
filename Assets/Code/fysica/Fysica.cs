@@ -1,15 +1,15 @@
-public class Fysica 
-{
-	private type parameterName;
+﻿using UnityEngine;
+using System.Collections;
 
-	private ReturnType MethodName(Parameters) 
-	{
-		get{}
-		set{}
+public class Fysica : MonoBehaviour {
+
+	// Use this for initialization
+	void Start () {
+	
 	}
-
-	public ReturnType MethodName(Parameters) 
-	{
-		
+	
+	// Update is called once per frame
+	void Update () {
+	
 	}
 }
