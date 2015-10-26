@@ -33,3 +33,5 @@ ipch/
 ehthumbs.db
 Icon?
 Thumbs.db
+
+*.meta
